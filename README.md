@@ -7,4 +7,4 @@ The application uses Most Popular Movies API and shows a list of related movies.
 
 **Components Used**
 
-* MVVVM Architecture - Robust, testable, and maintainable app with classes for managing your UI component lifecycle and handling data persistence.
+* <a href="https://developer.android.com/jetpack/arch/" rel="nofollow">MVVM Architecture</a> - Robust, testable, and maintainable app with classes for managing your UI component lifecycle and handling data persistence.
