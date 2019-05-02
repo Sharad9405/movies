@@ -1,5 +1,5 @@
 
-# About App
+About App
 ---------------
 A simple android movies listing application to demonstrate the usage for MVVM design pattern using Android data binding, LiveData, RxJava, Retrofit and Generic Adapter.
 
