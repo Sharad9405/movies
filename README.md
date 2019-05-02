@@ -13,4 +13,5 @@ The application uses Most Popular Movies API and shows a list of related movies.
 * <a href="https://bumptech.github.io/glide/" rel="nofollow">Glide</a> - for image loading.
 
 **Support**
+- - - -
 If you've found an error in this sample, please file an issue: https://github.com/Sharad9405/movies/issues
